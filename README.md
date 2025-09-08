@@ -65,14 +65,9 @@
 
 ---
 
-### ✨ Islamic Aesthetic GIFs
+### ✨ Aesthetic Vibes
 <p align="center">
-  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="300" alt="Islamic Mosque Gif">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300" alt="Islamic Crescent Gif">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="400" alt="Islamic Stars Gif">
+  <img src="https://i.pinimg.com/originals/3f/35/6c/3f356c8a3d94c08c23c24f3e46f7285a.gif" width="400" alt="Hijab girl coding gif">
 </p>
 
 ---
@@ -83,3 +78,4 @@
 </p>
 
 ⭐️ From [zhifa19](https://github.com/zhifa19)  
+
