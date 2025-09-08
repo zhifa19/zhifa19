@@ -1,79 +1,58 @@
-<!-- Brown Aesthetic Banner -->
+<!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5E3C&height=220&section=header&text=Nazhifa%20Wardah&fontSize=45&fontColor=FFF8F0&animation=twinkling&fontAlignY=35" alt="header"/>
+  <img src="HAI.png" alt="Nazhifa Wardah" width="200" style="border-radius:50%">
 </p>
 
-<!-- Profile Picture -->
-<p align="center">
-  <img src="HAI.png" alt="Nazhifa Wardah" width="200" style="border-radius:50%; border: 4px solid #8B5E3C;">
-</p>
-
-<h1 align="center">🤎 Assalamu'alaikum, I'm <span style="color:#8B5E3C">Nazhifa Wardah</span> 🤎</h1>
+<h1 align="center">✨ Assalamu'alaikum, I'm Nazhifa Wardah ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1200&color=8B5E3C&center=true&vCenter=true&width=650&lines=🌙+Muslimah+Who+Loves+Tech;🎨+Web+%26+App+Design+Enthusiast;✈️+Traveller+and+Explorer;🏞️+Hiking+%26+Swimming+Lover;💡+Always+Learning+Something+New" alt="Typing SVG" />
+  <b>🌸 Web & App Designer | 🌍 Traveler | 🤝 Lifelong Learner</b>
 </p>
 
 ---
 
-### 🌸 About Me
-💡 Passionate about **IT & creativity**, always curious to learn new things.  
-🤝 I love **making friends, collaborating, and sharing ideas**.  
-🌙 Growing with **Islamic values** while exploring **technology & design**.  
+## 🌟 About Me  
+Hi! I'm **Nazhifa Wardah** 👩‍💻.  
+I love learning new things related to **IT** and enjoy making friends 🤗.  
+I'm passionate about **Web Design**, **App Design**, and exploring the world 🌍.  
 
 ---
 
-### 🚀 My Interests
-- 🎨 **Web Design**  
-- 📱 **App Design**  
-- ✈️ **Travelling**  
-- 🏞️ **Hiking**  
-- 🏊 **Swimming**  
-
----
-
-### 🌐 Connect With Me
+## 🔗 Connect With Me
 <p align="center">
-  <a href="https://www.tiktok.com/@sinazhif" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-8B5E3C?style=for-the-badge&logo=tiktok&logoColor=white" />
+  <a href="https://www.tiktok.com/@zhfwr">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
-  <a href="https://instagram.com/nzhfwrd" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-8B5E3C?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/nzhfwrd/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhifa19&show_icons=true&theme=buefy&title_color=8B5E3C&icon_color=8B5E3C" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhifa19&layout=compact&theme=buefy&title_color=8B5E3C" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zhifa19&show_icons=true&theme=brown" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhifa19&theme=brown" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🔥 Streak & Visitors
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhifa19&theme=buefy&ring=8B5E3C&fire=8B5E3C&currStreakLabel=8B5E3C" alt="GitHub Streak" />
-</p>
+## 🌱 My Interests
+- 🎨 Web Design  
+- 📱 App Design  
+- ✈️ Traveling  
 
+---
+
+## ✨ Visitors Counter
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zhifa19&label=Profile%20views&color=8B5E3C&style=flat-square" alt="Profile Views" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhifa19%2Fhit-counter&count_bg=%238B5E3C&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true"/>
+  <img src="https://komarev.com/ghpvc/?username=zhifa19&label=Profile%20views&color=8B4513&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-### ✨ Aesthetic Vibes
+## 🕌 Fun Vibes
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3f/35/6c/3f356c8a3d94c08c23c24f3e46f7285a.gif" width="400" alt="Hijab girl coding gif">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=8B4513&center=true&vCenter=true&width=500&lines=Assalamu'alaikum+Warahmatullahi+Wabarakatuh;Welcome+to+my+GitHub+Profile!;Let's+learn+and+grow+together!+🌸" />
 </p>
-
----
-
-<!-- Brown Aesthetic Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5E3C&height=120&section=footer"/>
-</p>
-
-⭐️ From [zhifa19](https://github.com/zhifa19)  
