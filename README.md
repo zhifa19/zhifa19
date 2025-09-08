@@ -1,22 +1,27 @@
-<!-- Profile Header -->
+<!-- Brown Aesthetic Animated Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5E3C&height=220&section=header&text=Nazhifa%20Wardah&fontSize=45&fontColor=FFF8F0&animation=twinkling&fontAlignY=35" alt="header"/>
+</p>
+
+<!-- Profile Picture -->
 <p align="center">
   <img src="HAI.png" alt="Nazhifa Wardah" width="200" style="border-radius:50%; border: 4px solid #8B5E3C;">
 </p>
 
-<h1 align="center">🤎 Hi, I'm <span style="color:#8B5E3C">Nazhifa Wardah</span> 🤎</h1>
+<h1 align="center">🤎 Welcome to My GitHub Profile 🤎</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5E3C&center=true&vCenter=true&width=600&lines=🎨+Web+Design+Explorer;📱+App+Design+Enthusiast;✈️+Traveller+and+Dreamer;🏞️+Hiking+Lover;💡+Always+Learning+New+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1200&color=8B5E3C&center=true&vCenter=true&width=600&lines=🎨+Web+%26+App+Design+Enthusiast;✈️+Traveller+and+Explorer;🏞️+Hiking+Lover;💡+Always+Learning+Something+New" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ### 🌸 About Me
-💡 I’m passionate about **learning new things in IT** and creativity.  
-🤝 I love **making friends, collaborating, and sharing knowledge**.  
-🌐 Exploring **designs, adventures, and challenges** keeps me motivated.  
+💡 Passionate about **IT & creativity**, always curious to learn something new.  
+🤝 Love to **connect with people, share ideas, and collaborate**.  
+🌐 Inspired by **design, adventure, and challenges** that keep me growing.  
 
 ---
 
@@ -29,7 +34,7 @@
 ---
 
 ### 🌐 Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://www.tiktok.com/@sinazhif" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-8B5E3C?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
@@ -60,12 +65,17 @@
 
 ---
 
-### ✨ Fun Animation
+### ✨ Aesthetic Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="Coding gif">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Coding Animation">
 </p>
 
 ---
+
+<!-- Brown Aesthetic Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5E3C&height=120&section=footer"/>
+</p>
 
 ⭐️ From [zhifa19](https://github.com/zhifa19)  
 
