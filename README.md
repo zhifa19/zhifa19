@@ -1,22 +1,24 @@
-<!-- Profile Header -->
+<!-- Header -->
 <div align="center">
   <img src="HAI.png" alt="Profile Photo" width="200" style="border-radius:50%"/>
-  <h1>Hi, I'm <strong>Nazhifa Wardah</strong> 👋</h1>
-  <h3>✨ Creative Explorer | Tech Enthusiast | Brown Era ✨</h3>
+  
+  <!-- Animated Typing -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nazhifa+Wardah!;Creative+Explorer+%7C+Brown+Era;Always+Learning+%7C+Always+Growing" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🌟 About Me  
-💡 I’m passionate about learning new things related to **IT**  
-🤝 I love making new friends and sharing ideas  
-🎨 Interests: Web Design, App Design, Travelling, Hiking, Swimming, Islamic Animation, Brown Era  
+### 🌸 About Me  
+💻 Passionate about **IT & design**  
+🌍 Love exploring, travelling, and adventures  
+🤝 Open to new friends & collaborations  
+🎨 Interests: Web Design, App Design, Travelling, Hiking, Swimming  
 
 ---
 
 ### 📊 GitHub Stats  
 <div align="center">
-  
+
 ![](https://github-readme-stats.vercel.app/api?username=zhifa19&show_icons=true&theme=radical)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zhifa19&theme=radical)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhifa19&layout=compact&theme=radical)
@@ -25,10 +27,10 @@
 
 ---
 
-### 🔥 Profile Views  
+### 🔥 Profile Visitors  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zhifa19&label=Profile%20Views&color=ff69b4&style=flat" alt="zhifa19" />  
-  <img src="https://hit.yhype.me/github/profile?user_id=YOUR_GITHUB_USER_ID" alt="Total Visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=zhifa19&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />  
+  <img src="https://hits.sh/github.com/zhifa19.svg?label=Visitors&color=ff69b4&style=for-the-badge" alt="total visitors" />
 </p>
 
 ---
@@ -41,13 +43,12 @@
 
 ---
 
-### ✨ Fun GIF  
+### ✨ Fun Zone  
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200" />
 </div>
 
 ---
 
-### 🌀 Quote for the Day  
-> 🌸 *“Keep learning, keep growing, and never stop exploring the digital world.”* 🌸
-
+### 🌀 Quote for Today  
+> 🌸 *“Keep exploring, keep learning, and enjoy your brown era journey.”* 🌸
