@@ -7,16 +7,16 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=🌸+Web+Design+Lover;📱+App+Design+Explorer;✈️+Traveller+at+Heart;💡+Always+Learning+IT+Things" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=🌸+Web+%26+App+Design+Enthusiast;✈️+Traveller+and+Dreamer;🏞️+Hiking+%7C+🏊+Swimming;🎬+Islamic+Animation+Lover;🤎+Brown+Era+Vibes;💡+Always+Learning+Something+New" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ### 🌸 About Me
-💡 I'm passionate about **learning new things in IT**.  
-🤝 I love making friends and building connections.  
-🎨 Designing web & apps is my happy place.  
+💡 I'm passionate about **learning new things in IT** and creative fields.  
+🤝 I enjoy **making friends, sharing knowledge, and collaborating**.  
+🌐 My happy place is when I'm exploring **design, adventures, and creativity**.  
 
 ---
 
@@ -24,6 +24,10 @@
 - 🎨 **Web Design**  
 - 📱 **App Design**  
 - ✈️ **Travelling**  
+- 🏞️ **Hiking**  
+- 🏊 **Swimming**  
+- 🎬 **Islamic Animation**  
+- 🤎 **Brown Era Aesthetic**  
 
 ---
 
@@ -41,20 +45,20 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teddybelajarid&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teddybelajarid&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zhifa19&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhifa19&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
 ---
 
 ### 🔥 Streak & Visitors
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teddybelajarid&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhifa19&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=teddybelajarid&label=Profile%20views&color=ff69b4&style=flat-square" alt="Profile Views" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteddybelajarid1212%2Fhit-counter&count_bg=%23FF69B4&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true"/>
+  <img src="https://komarev.com/ghpvc/?username=zhifa19&label=Profile%20views&color=ff69b4&style=flat-square" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzhifa19%2Fhit-counter&count_bg=%23FF69B4&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true"/>
 </p>
 
 ---
@@ -66,6 +70,4 @@
 
 ---
 
-⭐️ From [teddybelajarid](https://github.com/teddybelajarid)  
-
-
+⭐️ From [zhifa19](https://github.com/zhifa19)  
