@@ -12,16 +12,16 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1200&color=8B5E3C&center=true&vCenter=true&width=650&lines=🌙+Muslimah+Who+Loves+Tech;🎨+Web+%26+App+Design+Enthusiast;💡+Learning+IT+Everyday;✨+Balancing+Faith+%26+Technology" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1200&color=8B5E3C&center=true&vCenter=true&width=650&lines=🌙+Muslimah+Who+Loves+Tech;🎨+Web+%26+App+Design+Enthusiast;✈️+Traveller+and+Explorer;🏞️+Hiking+Lover;💡+Always+Learning+Something+New" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ### 🌸 About Me
-💡 Passionate about **IT & creativity**, always learning something new.  
-🤝 I enjoy **connecting, sharing, and collaborating** with others.  
-🌙 Inspired by **Islamic values** and driven by **technology & design**.  
+💡 Passionate about **IT & creativity**, always curious to learn new things.  
+🤝 Love to **connect with people, share ideas, and collaborate**.  
+🌙 Inspired by **Islamic values** while growing in **technology & design**.  
 
 ---
 
@@ -65,11 +65,14 @@
 
 ---
 
-### ✨ Islamic & IT Animation
+### ✨ Islamic Aesthetic GIFs
 <p align="center">
-  <!-- Islamic Crescent Moon + Mosque aesthetic -->
-  <img src="https://media.giphy.com/media/3o7TKxOhkp8dWIOZ28/giphy.gif" width="200" alt="Islamic Crescent">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Coding Animation">
+  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="300" alt="Islamic Mosque Gif">
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300" alt="Islamic Crescent Gif">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="400" alt="Islamic Stars Gif">
 </p>
 
 ---
