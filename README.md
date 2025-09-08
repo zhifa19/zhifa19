@@ -1,4 +1,4 @@
-<!-- Brown Aesthetic Animated Banner -->
+<!-- Brown Aesthetic Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5E3C&height=220&section=header&text=Nazhifa%20Wardah&fontSize=45&fontColor=FFF8F0&animation=twinkling&fontAlignY=35" alt="header"/>
 </p>
@@ -8,20 +8,20 @@
   <img src="HAI.png" alt="Nazhifa Wardah" width="200" style="border-radius:50%; border: 4px solid #8B5E3C;">
 </p>
 
-<h1 align="center">🤎 Welcome to My GitHub Profile 🤎</h1>
+<h1 align="center">🤎 Assalamu'alaikum, I'm <span style="color:#8B5E3C">Nazhifa Wardah</span> 🤎</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1200&color=8B5E3C&center=true&vCenter=true&width=600&lines=🎨+Web+%26+App+Design+Enthusiast;✈️+Traveller+and+Explorer;🏞️+Hiking+Lover;💡+Always+Learning+Something+New" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1200&color=8B5E3C&center=true&vCenter=true&width=650&lines=🌙+Muslimah+Who+Loves+Tech;🎨+Web+%26+App+Design+Enthusiast;💡+Learning+IT+Everyday;✨+Balancing+Faith+%26+Technology" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ### 🌸 About Me
-💡 Passionate about **IT & creativity**, always curious to learn something new.  
-🤝 Love to **connect with people, share ideas, and collaborate**.  
-🌐 Inspired by **design, adventure, and challenges** that keep me growing.  
+💡 Passionate about **IT & creativity**, always learning something new.  
+🤝 I enjoy **connecting, sharing, and collaborating** with others.  
+🌙 Inspired by **Islamic values** and driven by **technology & design**.  
 
 ---
 
@@ -65,8 +65,10 @@
 
 ---
 
-### ✨ Aesthetic Animation
+### ✨ Islamic & IT Animation
 <p align="center">
+  <!-- Islamic Crescent Moon + Mosque aesthetic -->
+  <img src="https://media.giphy.com/media/3o7TKxOhkp8dWIOZ28/giphy.gif" width="200" alt="Islamic Crescent">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Coding Animation">
 </p>
 
@@ -78,4 +80,3 @@
 </p>
 
 ⭐️ From [zhifa19](https://github.com/zhifa19)  
-
