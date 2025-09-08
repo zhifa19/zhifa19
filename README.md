@@ -11,17 +11,15 @@
 <h1 align="center">🤎 Assalamu'alaikum, I'm <span style="color:#8B5E3C">Nazhifa Wardah</span> 🤎</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1200&color=8B5E3C&center=true&vCenter=true&width=650&lines=🌙+Muslimah+Who+Loves+Tech;🎨+Web+%26+App+Design+Enthusiast;✈️+Traveller+and+Explorer;🏞️+Hiking+Lover;💡+Always+Learning+Something+New" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&pause=1200&color=8B5E3C&center=true&vCenter=true&width=650&lines=🌙+Muslimah+Who+Loves+Tech;🎨+Web+%26+App+Design+Enthusiast;✈️+Traveller+and+Explorer;🏞️+Hiking+%26+Swimming+Lover;💡+Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🌸 About Me
 💡 Passionate about **IT & creativity**, always curious to learn new things.  
-🤝 Love to **connect with people, share ideas, and collaborate**.  
-🌙 Inspired by **Islamic values** while growing in **technology & design**.  
+🤝 I love **making friends, collaborating, and sharing ideas**.  
+🌙 Growing with **Islamic values** while exploring **technology & design**.  
 
 ---
 
@@ -30,6 +28,7 @@
 - 📱 **App Design**  
 - ✈️ **Travelling**  
 - 🏞️ **Hiking**  
+- 🏊 **Swimming**  
 
 ---
 
@@ -78,4 +77,3 @@
 </p>
 
 ⭐️ From [zhifa19](https://github.com/zhifa19)  
-
