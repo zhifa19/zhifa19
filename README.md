@@ -4,7 +4,7 @@
 
 <img src="HAI.png" alt="Profile Banner" width="200" style="border-radius:50%"/>
 
-# 🌸 Hi, I'm **Nazhifa Wardah** 🌸  
+# 🌸 Hi, I'm **Nazhifa Wardah** <span class="wave">👋</span> 🌸  
 ✨ Curious mind | Lifelong Learner | Friendly Explorer ✨  
 
 ---
@@ -45,3 +45,25 @@ I'm passionate about **Web Design**, **App Design**, and I love exploring the wo
 > *"Keep learning, keep exploring, and keep shining 🌟"*  
 
 </div>
+
+<!-- Wave animation -->
+<style>
+  .wave {
+    animation-name: wave-animation;
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
+    transform-origin: 70% 70%;
+    display: inline-block;
+  }
+
+  @keyframes wave-animation {
+      0% { transform: rotate( 0.0deg) }
+     10% { transform: rotate(14.0deg) }  
+     20% { transform: rotate(-8.0deg) }
+     30% { transform: rotate(14.0deg) }
+     40% { transform: rotate(-4.0deg) }
+     50% { transform: rotate(10.0deg) }
+     60% { transform: rotate( 0.0deg) }  
+    100% { transform: rotate( 0.0deg) }
+  }
+</style>
