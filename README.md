@@ -1,59 +1,65 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="HAI.png" alt="Nazhifa Wardah" width="200" style="border-radius:50%">
+  <img src="HAI.png" width="200" style="border-radius: 50%;" alt="Profile Picture">
 </p>
 
-<h1 align="center">✨ Assalamu'alaikum, I'm Nazhifa Wardah ✨</h1>
+<h1 align="center">✨ Hi, I'm Nazhifa Wardah ✨</h1>
+<h3 align="center">🌸 Web & App Design Enthusiast | Explorer | Lifelong Learner 🌸</h3>
 
+---
+
+## 💫 About Me  
+🌱 I’m passionate about learning new things in IT and design.  
+🤝 I enjoy making new friends and collaborating with others.  
+🌍 Outside of tech, I love **travelling, hiking, and swimming**.  
+
+---
+
+## 🌟 Interests  
+- 🎨 **Web Design**  
+- 📱 **App Design**  
+- ✈️ **Travelling**  
+- 🏔 **Hiking**  
+- 🏊 **Swimming**
+
+---
+
+## 📊 GitHub Stats  
 <p align="center">
-  <b>🌸 Web & App Designer | 🌍 Traveler | 🤝 Lifelong Learner</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=zhifa19&show_icons=true&theme=radical" alt="GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhifa19&theme=radical" alt="GitHub streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhifa19&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
 
-## 🌟 About Me  
-Hi! I'm **Nazhifa Wardah** 👩‍💻.  
-I love learning new things related to **IT** and enjoy making friends 🤗.  
-I'm passionate about **Web Design**, **App Design**, and exploring the world 🌍.  
+## 👀 Visitors Count  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zhifa19&style=for-the-badge&color=ff69b4" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/zhifa19/&title=Visitors" alt="visitors" />
+</p>
 
 ---
 
-## 🔗 Connect With Me
+## 📱 Social Media  
 <p align="center">
-  <a href="https://www.tiktok.com/@zhfwr">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" />
+  <a href="https://www.tiktok.com/@sinazhif" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/nzhfwrd/">
+  <a href="https://instagram.com/nzhfwrd" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Fun GIF  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhifa19&show_icons=true&theme=brown" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhifa19&theme=brown" alt="GitHub Streak" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Waving hand gif">
 </p>
 
 ---
 
-## 🌱 My Interests
-- 🎨 Web Design  
-- 📱 App Design  
-- ✈️ Traveling  
-
----
-
-## ✨ Visitors Counter
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zhifa19&label=Profile%20views&color=8B4513&style=flat" alt="Profile Views" />
-</p>
-
----
-
-## 🕌 Fun Vibes
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=8B4513&center=true&vCenter=true&width=500&lines=Assalamu'alaikum+Warahmatullahi+Wabarakatuh;Welcome+to+my+GitHub+Profile!;Let's+learn+and+grow+together!+🌸" />
-</p>
-
+⭐️ From [zhifa19](https://github.com/zhifa19) with 💖
