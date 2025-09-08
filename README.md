@@ -1,54 +1,47 @@
-<!-- Header -->
+<!-- PROFILE README by ChatGPT -->
+
 <div align="center">
-  <img src="HAI.png" alt="Profile Photo" width="200" style="border-radius:50%"/>
-  
-  <!-- Animated Typing -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nazhifa+Wardah!;Creative+Explorer+%7C+Brown+Era;Always+Learning+%7C+Always+Growing" alt="Typing SVG" />
-</div>
+
+<img src="HAI.png" alt="Profile Banner" width="200" style="border-radius:50%"/>
+
+# 🌸 Hi, I'm **Nazhifa Wardah** 🌸  
+✨ Curious mind | Lifelong Learner | Friendly Explorer ✨  
 
 ---
 
-### 🌸 About Me  
-💻 Passionate about **IT & design**  
-🌍 Love exploring, travelling, and adventures  
-🤝 Open to new friends & collaborations  
-🎨 Interests: Web Design, App Design, Travelling, Hiking, Swimming  
+### 💫 About Me  
+I'm passionate about **Web Design**, **App Design**, and I love exploring the world through **Travelling**, **Hiking**, and **Swimming**.  
+💻 I enjoy learning new things about **IT & technology** and making new friends along the way!  
+
+---
+
+### 🔗 Connect with me  
+<p>
+<a href="https://www.tiktok.com/@sinazhif"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white" /></a>
+<a href="https://instagram.com/nzhfwrd"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats  
-<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=zhifa19&show_icons=true&theme=radical)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=zhifa19&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhifa19&layout=compact&theme=radical)
-
-</div>
+![](https://github-readme-stats.vercel.app/api?username=zhifa19&show_icons=true&theme=brown)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=zhifa19&theme=brown)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhifa19&layout=compact&theme=brown)  
 
 ---
 
-### 🔥 Profile Visitors  
+### 🌍 Profile Views & Visitors  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zhifa19&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="profile views" />  
-  <img src="https://hits.sh/github.com/zhifa19.svg?label=Visitors&color=ff69b4&style=for-the-badge" alt="total visitors" />
+  <img src="https://komarev.com/ghpvc/?username=zhifa19&style=for-the-badge&color=8B4513" alt="profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zhifa19.zhifa19" alt="visitors"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me  
-<p align="center">
-  <a href="https://www.tiktok.com/@sinazhif"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white" /></a>
-  <a href="https://instagram.com/nzhfwrd"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-</p>
+### 🎉 Fun Vibes  
+<img src="https://i.pinimg.com/originals/4b/22/14/4b22149ef6dd6f3dcb9f5c7797e93854.gif" width="300"/>  
 
----
+> *"Keep learning, keep exploring, and keep shining 🌟"*  
 
-### ✨ Fun Zone  
-<div align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200" />
 </div>
-
----
-
-### 🌀 Quote for Today  
-> 🌸 *“Keep exploring, keep learning, and enjoy your brown era journey.”* 🌸
