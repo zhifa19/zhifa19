@@ -1,66 +1,88 @@
-<!-- Profile README for zhifa19 -->
+<!-- Profil README.md -->
 
-<img src="HAI.jpg" alt="Profile Picture" width="200" align="right" style="border-radius: 50%; margin: 10px;"/>
+<p align="center">
+  <img src="HAI.png" alt="Nazhifa Wardah" width="200" style="border-radius: 50%; box-shadow: 0 0 15px #c4a484;">
+</p>
 
-# 👋 Hi, I'm **Nazhifa Wardah**  
+<h1 align="center">✨ Hi, I'm <span style="color:#8B5E3C;">Nazhifa Wardah</span> ✨</h1>
 
-✨ A curious explorer of creativity, technology, and the world around me.  
-🌸 Passionate about **Web Design, App Design, Hiking, Swimming, Travelling, Creativity & Digital Expression**.  
-💻 Always eager to learn new things about IT and make meaningful connections.  
-
----
-
-## 🌐 Connect with Me  
-[![Instagram](https://img.shields.io/badge/Instagram-%40nzhfwrdh-pink?style=for-the-badge&logo=instagram)](https://instagram.com/nzhfwrdh)  
-[![Tiktok](https://img.shields.io/badge/Tiktok-sinazhif-black?style=for-the-badge&logo=tiktok)](https://tiktok.com/@sinazhif)  
+<p align="center">
+  🌿 Creative soul | 💻 Tech Explorer | ✈️ Adventure Seeker
+</p>
 
 ---
 
-## 🚀 Tech Stack  
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)  
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
-![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)  
-![Canva](https://img.shields.io/badge/Canva-teal?style=for-the-badge&logo=canva)  
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)  
+### 🌸 About Me  
+Hi! I'm **Nazhifa Wardah**, a passionate learner who loves exploring the world of **IT, design, and creativity**.  
+I enjoy connecting with people, sharing ideas, and discovering new things every day.  
+Outside of tech, I recharge through **hiking, swimming, and travelling** 🌍
 
 ---
 
-## 📊 GitHub Stats  
-
-![](https://github-readme-stats.vercel.app/api?username=zhifa19&show_icons=true&theme=radical)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=zhifa19&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhifa19&layout=compact&theme=radical)  
-
----
-
-## 🏆 GitHub Trophies  
-![](https://github-profile-trophy.vercel.app/?username=zhifa19&theme=radical&no-frame=false&no-bg=true&margin-w=5)  
+### 🎨 Interests  
+- 🌐 Web Design  
+- 📱 App Design  
+- 🏞 Hiking  
+- 🏊‍♀️ Swimming  
+- ✈️ Travelling  
 
 ---
 
-## 📈 Activity Graph  
-[![Zhifa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhifa19&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+### 📱 Connect with Me  
+<p align="left">
+  <a href="https://www.tiktok.com/@sinazhif" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/nzhfwrdh" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-bc8f8f?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🌟 Featured Projects  
-- 🔗 [Top Project 1](#)  
-- 🔗 [Top Project 2](#)  
-- 🔗 [Top Project 3](#)  
+### 🛠 Tech Stack  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma,github,python,java,cpp&theme=light"/>
+</p>
 
 ---
 
-## 👀 Profile Visitors  
-![Visitor Count](https://komarev.com/ghpvc/?username=zhifa19&color=blue&style=for-the-badge)  
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zhifa19&style=flat-square&color=c4a484" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zhifa19&show_icons=true&theme=vue-dark&bg_color=2f1e1e&title_color=c4a484&icon_color=c4a484&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhifa19&layout=compact&theme=vue-dark&bg_color=2f1e1e&title_color=c4a484&hide_border=true" height="160px"/>
+</p>
 
 ---
 
-## 🎉 Fun Animation  
-
-![GitHub Goyang](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
+### 🚀 Contributions in the Last Year  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhifa19&bg_color=2f1e1e&color=c4a484&line=8B5E3C&point=D2B48C&hide_border=true" />
+</p>
 
 ---
 
-✨ _Thanks for visiting my profile! Let’s connect, collaborate, and create amazing things together!_  
+### 🏆 Achievements & Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zhifa19&theme=oldie&no-frame=true&column=6&margin-w=10&margin-h=10"/>
+</p>
 
+---
+
+### 🌟 Top Projects  
+<p align="center">
+  <a href="https://github.com/zhifa19">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zhifa19&repo=your-repo-name&theme=vue-dark&bg_color=2f1e1e&title_color=c4a484&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### ✨ Fun Quote  
+> *“Learning never exhausts the mind, it only sparks new journeys.”* 🌸  
+
+---
