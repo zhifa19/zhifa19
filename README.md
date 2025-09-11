@@ -1,65 +1,66 @@
-<!-- Profile Header -->
-<p align="center">
-  <img src="HAI.png" width="200" style="border-radius: 50%;" alt="Profile Picture">
-</p>
+<!-- Profile README for zhifa19 -->
 
-<h1 align="center">✨ Hi, I'm Nazhifa Wardah ✨</h1>
-<h3 align="center">🌸 Web & App Design Enthusiast | Explorer | Lifelong Learner 🌸</h3>
+<img src="HAI.jpg" alt="Profile Picture" width="200" align="right" style="border-radius: 50%; margin: 10px;"/>
 
----
+# 👋 Hi, I'm **Nazhifa Wardah**  
 
-## 💫 About Me  
-🌱 I’m passionate about learning new things in IT and design.  
-🤝 I enjoy making new friends and collaborating with others.  
-🌍 Outside of tech, I love **travelling, hiking, and swimming**.  
+✨ A curious explorer of creativity, technology, and the world around me.  
+🌸 Passionate about **Web Design, App Design, Hiking, Swimming, Travelling, Creativity & Digital Expression**.  
+💻 Always eager to learn new things about IT and make meaningful connections.  
 
 ---
 
-## 🌟 Interests  
-- 🎨 **Web Design**  
-- 📱 **App Design**  
-- ✈️ **Travelling**  
-- 🏔 **Hiking**  
-- 🏊 **Swimming**
+## 🌐 Connect with Me  
+[![Instagram](https://img.shields.io/badge/Instagram-%40nzhfwrdh-pink?style=for-the-badge&logo=instagram)](https://instagram.com/nzhfwrdh)  
+[![Tiktok](https://img.shields.io/badge/Tiktok-sinazhif-black?style=for-the-badge&logo=tiktok)](https://tiktok.com/@sinazhif)  
+
+---
+
+## 🚀 Tech Stack  
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)  
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
+![Figma](https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma)  
+![Canva](https://img.shields.io/badge/Canva-teal?style=for-the-badge&logo=canva)  
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)  
 
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zhifa19&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhifa19&theme=radical" alt="GitHub streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhifa19&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+
+![](https://github-readme-stats.vercel.app/api?username=zhifa19&show_icons=true&theme=radical)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=zhifa19&theme=radical)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhifa19&layout=compact&theme=radical)  
 
 ---
 
-## 👀 Visitors Count  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zhifa19&style=for-the-badge&color=ff69b4" alt="Profile Views" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/zhifa19/&title=Visitors" alt="visitors" />
-</p>
+## 🏆 GitHub Trophies  
+![](https://github-profile-trophy.vercel.app/?username=zhifa19&theme=radical&no-frame=false&no-bg=true&margin-w=5)  
 
 ---
 
-## 📱 Social Media  
-<p align="center">
-  <a href="https://www.tiktok.com/@sinazhif" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?&style=for-the-badge&logo=TikTok&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/nzhfwrd" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+## 📈 Activity Graph  
+[![Zhifa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhifa19&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ---
 
-## ⚡ Fun GIF  
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120" alt="Waving hand gif">
-</p>
+## 🌟 Featured Projects  
+- 🔗 [Top Project 1](#)  
+- 🔗 [Top Project 2](#)  
+- 🔗 [Top Project 3](#)  
 
 ---
 
-⭐️ From [zhifa19](https://github.com/zhifa19) with 💖
+## 👀 Profile Visitors  
+![Visitor Count](https://komarev.com/ghpvc/?username=zhifa19&color=blue&style=for-the-badge)  
+
+---
+
+## 🎉 Fun Animation  
+
+![GitHub Goyang](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
+
+---
+
+✨ _Thanks for visiting my profile! Let’s connect, collaborate, and create amazing things together!_  
+
